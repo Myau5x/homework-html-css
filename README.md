@@ -1,3 +1,3 @@
 # homework-html-css
-## Homework about semantic css
+## Homework about semantic html
 I made html file looks more meaningfull
