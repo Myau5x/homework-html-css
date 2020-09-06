@@ -63,9 +63,9 @@ p {
     background-size: cover;
     background-position: center;
 }
-.hero img {
+/*.hero img {
     max-width: 100%;
-}
+}*/
 
 .float-left {
     float: left;
