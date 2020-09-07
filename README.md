@@ -11,5 +11,5 @@ Next things were done for these purposes:
 - changing correponding elements in css file
 - navigations links were checked, and one of them corrected
 - several similar classes were joined in css
-- `alt` atributes were added to images
+- `alt` attributes were added to images
 - `aria-label` attribute was added for background image
